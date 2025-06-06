@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(250, 245, 252);
+}
+
+.nav {
+    list-style: none;
+    text-align: center;
+}
+.nav li {
+    display: inline;
+    margin-right: 50px;
+    font-family: Montserrat, 'Times New Roman';
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: rgb(234, 216, 242);
+}
+
+.info {
+    font-family: 'Montserrat', 'Times New Roman';
+    }
+
+.image_caption {
+    text-align: center;
+}
+
+
+.yeah {
+    text-align: center;
+    line-height: 1.6;
+}
+
+#history {
+    font-family: 'Baskervville SC', 'Times New Roman';
+    font-size: 25px ;
+}
+
+.characteristics {
+  font-size: 18px;
+  font-family: Montserrat, 'Times New Roman';
+}
+
